@@ -28,6 +28,10 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 	</properties>
+	<repository>
+		<id>nexus-groups</id>
+		<url>http://3.6.86.42:8081/repository/testing-maven-group/</url>
+	</repository>
 
 	<dependencies>
 		
