@@ -30,7 +30,7 @@
 	</properties>
 	<repositories>
 		<repository>
-			<id>nexus-groups</id>
+			<id>maven-group</id>
 			<url>http://3.6.86.42:8081/repository/testing-maven-group/</url>
 		</repository>
 	</repositories>
