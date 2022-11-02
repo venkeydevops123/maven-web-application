@@ -31,7 +31,7 @@
 	<repositories>
 		<repository>
 			<id>central</id>
-			<url>http://13.127.28.250:9091/repository/testing-maven-group/</url>
+			<url>http://13.127.28.250:9091/repository/testing-maven-proxy/</url>
 		</repository>
 	</repositories>
 	<dependencies>
