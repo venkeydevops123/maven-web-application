@@ -101,13 +101,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
+	      <id>releases</id>
 	      <name>Testing Releases Repository</name>
 	      <url>http://13.127.28.250:9091/repository/Testing-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>snapshots</id>
 	      <name>Testing Snapshot Repository </name>
 	      <url>http://13.127.28.250:9091/repository/Testing-snapshot/</url>
 	    </snapshotRepository>
