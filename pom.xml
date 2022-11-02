@@ -30,7 +30,7 @@
 	</properties>
 	<repositories>
 		<repository>
-			<id>testing-maven-group</id>
+			<id>central</id>
 			<url>http://13.127.28.250:9091/repository/testing-maven-group/</url>
 		</repository>
 	</repositories>
