@@ -30,8 +30,8 @@
 	</properties>
 	<repositories>
 		<repository>
-			<id>central</id>
-			<url>http://13.127.28.250:9091/repository/testing-maven-group/</url>
+			<id>nexus</id>
+			<url>http://65.2.149.95:9091/repository/testing-maven-group/</url>
 		</repository>
 	</repositories>
 	<dependencies>
@@ -101,15 +101,15 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>releases</id>
+	      <id>nexus</id>
 	      <name>Testing Releases Repository</name>
-	      <url>http://13.127.28.250:9091/repository/Testing-release/</url>
+	      <url>http://65.2.149.95:9091/repository/Testing-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>snapshots</id>
+	      <id>nexus</id>
 	      <name>Testing Snapshot Repository </name>
-	      <url>http://13.127.28.250:9091/repository/Testing-snapshot/</url>
+	      <url>http://65.2.149.95:9091/repository/Testing-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
