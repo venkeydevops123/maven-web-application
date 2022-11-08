@@ -31,7 +31,7 @@
 	<repositories>
 		<repository>
 			<id>nexus</id>
-			<url>http://35.154.23.182:9091/repository/testing-maven-group/</url>
+			<url>http://3.108.40.49:9091/repository/testing-maven-group/</url>
 		</repository>
 	</repositories>
 	<dependencies>
@@ -103,13 +103,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Testing Releases Repository</name>
-	      <url>http://35.154.23.182:9091/repository/Testing-release/</url>
+	      <url>http://3.108.40.49:9091/repository/Testing-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Testing Snapshot Repository </name>
-	      <url>http://35.154.23.182:9091/repository/Testing-snapshot/</url>
+	      <url>http://3.108.40.49:9091/repository/Testing-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
